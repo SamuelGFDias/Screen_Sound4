@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen_Sound04", "Screen_Sound04\Screen_Sound04.csproj", "{65114E31-FB0F-459B-9728-8E4D20000CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{856A603A-8AF4-4BFD-BA3F-5EED61039A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65114E31-FB0F-459B-9728-8E4D20000CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65114E31-FB0F-459B-9728-8E4D20000CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65114E31-FB0F-459B-9728-8E4D20000CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65114E31-FB0F-459B-9728-8E4D20000CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856A603A-8AF4-4BFD-BA3F-5EED61039A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856A603A-8AF4-4BFD-BA3F-5EED61039A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856A603A-8AF4-4BFD-BA3F-5EED61039A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856A603A-8AF4-4BFD-BA3F-5EED61039A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2A31BE-BAC1-402D-8904-2444CB151AC5}
+	EndGlobalSection
+EndGlobal
